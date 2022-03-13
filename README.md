@@ -6,7 +6,9 @@
 ---------
 
 2017-2019:   **BSc, Applied Mathematics and Information Science**; HSE University
+
 2019-2023(expected): 42 School [School site](https://42.fr/en/homepage/) [Wiki](https://en.wikipedia.org/wiki/42_(school))
+
 2021-2025(expected):   **BSc, Computing and Data Science**; HSE University
 
 
